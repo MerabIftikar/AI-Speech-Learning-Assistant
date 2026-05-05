@@ -1,0 +1,33 @@
+# --- Frontend (Expo/React Native) ---
+node_modules/
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+/ios
+/android
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+.DS_Store
+
+# --- Backend (Django/Python) ---
+venv/
+.venv/
+ENV/
+__pycache__/
+*.pyc
+db.sqlite3
+.python-version
+
+# --- Environment & Secrets (MOST IMPORTANT) ---
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+
+# --- Project Specific (Azure Temp Files) ---
+converted_*.wav
+temp_*.m4a
+*.log
