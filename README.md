@@ -1,4 +1,4 @@
-<!-- # 🎤 AI Speech Learning Assistant (Full-Stack)
+ # 🎤 AI Speech Learning Assistant (Full-Stack)
 
 An intelligent, full-stack mobile platform designed to help children master pronunciation through real-time AI feedback. This project integrates a high-performance **Expo (React Native)** frontend with a robust **Django** backend, powered by **Azure AI Services**.
 
@@ -93,4 +93,4 @@ Code
 3.  **Push to GitHub:**
     ```bash
     git push origin main
-    ``` -->
+  
