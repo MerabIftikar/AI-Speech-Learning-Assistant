@@ -93,4 +93,8 @@ Code
 3.  **Push to GitHub:**
     ```bash
     git push origin main
-  
+
+## 👨‍💻 Developed By
+**Merab Iftikhar**  
+*React Native Developer & AI Automation Specialist*  
+[LinkedIn](https://linkedin.com/in/merab-iftikhar-butt-a5480b343) | [GitHub](https://github.com/MerabIftikar)
